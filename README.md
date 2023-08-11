@@ -1,8 +1,8 @@
 # Acerca De
 Repositorio donde guardo mi autoexec.cfg y mis mods en un unico archivo vpk.
 
-* [Como usar mods en versus](#Como-usar-mods-en-versus)
-* [Como crear un apk propio](#Como-crear-un-vpk-propio)
+* [Como usar mods en versus](#como-usar-mods-en-versus)
+* [Como crear un apk propio](#como-crear-un-vpk-propio)
 
 NOTA: No es necesario saber como crear un vpk propio para poder usar
 mods en versus.
@@ -19,11 +19,10 @@ del mismo nombre que puede ayudar a identificarlos.
 
 Para usar addons en versus, (1) se crea un folder cualquiera **"$root_dir/mi_mod_favorito"**
 y se pone el vpk dentro de este. Pero el vpk necesita ser re-nombrado a
-"pak01_dir.vpk". (2) Despues, se edita la ultima parte del archivo para que incluya
-mi mod.
-**"$root_dir/left4dead2/gameinfo.txt"**
+"pak01_dir.vpk". (2) Despues, se edita la ultima parte del archivo
+**"$root_dir/left4dead2/gameinfo.txt"** para que incluya mi mod.
 
-[TODO: poner screenshot del gameinfo.txt]
+![](./imgs/gameinfo.png)
 
 Como se pudo ver, en esa seccion se especifican folders que sobreescriben
 los archivos del juego de abajo a arriba. Estos folders se encuentran
@@ -89,12 +88,16 @@ $ vpk -c compilacion -cv 1  nombre.vpk
 Tambien inclui archivos de correccion para cuando eres infectado
 ( se ve menos azul y naranja ).
 
-[TODO: poner screenshot como infectado]
+
+Default                    | Custom
+:-------------------------:|:-------------------------:
+![](./imgs/default.png)    |  ![](./imgs/custom.png)
+:-------------------------:|:-------------------------:
 
 ## Fuentes
 Copie y modifique la mayoria de mi autoexec de
 https://github.com/theletterjwithadot/Ultimate-Config-for-L4D2.
-Ahi tambien estan los archivos de correccion.
+Ahi tambien estan los archivos de correccion que use.
 
 Donde originalmente aprendi a usar mods en versus:
 https://www.youtube.com/watch?v=Nv9sOw4rako
