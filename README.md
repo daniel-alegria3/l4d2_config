@@ -92,7 +92,6 @@ Tambien inclui archivos de correccion para cuando eres infectado
 Default                    | Custom
 :-------------------------:|:-------------------------:
 ![](./imgs/default.png)    |  ![](./imgs/custom.png)
-:-------------------------:|:-------------------------:
 
 ## Fuentes
 Copie y modifique la mayoria de mi autoexec de
