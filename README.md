@@ -5,7 +5,9 @@ Repositorio donde guardo mi autoexec.cfg y mis mods en un unico archivo vpk.
 * [Como crear un apk propio](#como-crear-un-vpk-propio)
 
 NOTA: No es necesario saber como crear un vpk propio para poder usar
-mods en versus.
+mods en versus. Tambien algunos servers piden consistencia con el archivo
+gameinfo.txt, asi que no es posible usar mods en esos. Pero para servers
+oficiales si funciona.
 
 ## Como usar mods en versus
 Llamemos **$root_dir** al folder donde esta instalado Left4Dead2.
@@ -13,9 +15,11 @@ Se puede saber donde queda este folder dandole anti-click al juego en Steam
 y seleccionando la opcion adecuada. 
 
 Los archivos vpk descargados del workshop de steam se encuentran en
-**$root_dir/left4dead2/addons/workshop**. Los nombres de estos son numeros,
-asi que es un poco dificil saber que addon es cual. Aun asi, hay una imagen
-del mismo nombre que puede ayudar a identificarlos.
+**$root_dir/left4dead2/addons/workshop**. Los nombres de estos son sus codigos
+en el workshop, que se encuentran en la url despues de 'id=':
+![](./imgs/workshop.png)
+Ademas, hay una imagen del mismo nombre en el folder que puede ayudar a
+identificarlos.
 
 Para usar addons en versus, (1) se crea un folder cualquiera **"$root_dir/mi_mod_favorito"**
 y se pone el vpk dentro de este. Pero el vpk necesita ser re-nombrado a
