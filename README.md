@@ -12,7 +12,7 @@ oficiales si funciona.
 ## Como usar mods en versus
 Llamemos **$root_dir** al folder donde esta instalado Left4Dead2.
 Se puede saber donde queda este folder dandole anti-click al juego en Steam
-y seleccionando la opcion adecuada. 
+y seleccionando la opcion adecuada.
 
 Los archivos vpk descargados del workshop de steam se encuentran en
 **$root_dir/left4dead2/addons/workshop**. Los nombres de estos son sus codigos
@@ -87,6 +87,9 @@ $ vpk -c compilacion -cv 1  nombre.vpk
 )
 - [SidePanel for NeunGUI](
     https://steamcommunity.com/sharedfiles/filedetails/?id=121123376
+)
+- [Vocalizador (custom)](
+    https://steamcommunity.com/sharedfiles/filedetails/?id=1224992309
 )
 
 Tambien inclui archivos de correccion para cuando eres infectado
