@@ -100,6 +100,18 @@ Default                    | Custom
 :-------------------------:|:-------------------------:
 ![](./imgs/default.png)    |  ![](./imgs/custom.png)
 
+Y tambien inclui un archivo de spray en
+**materials/vgui/logos/custom/spray_danidev.vtf**.
+Importacion en Linux:
+Primero tratar de importar el spray en **Opciones > Multijugador > Importar
+Spray** y tipear nombre.vtf.
+Segundo, ir a **Opciones > Multijugador > Imagen Spray > Custom** y tipear
+nombre.vtf.
+
+NOTA: Si se quiere renombrar el archivo del spray, se tiene que editar el
+archivo *.vmt para que este conforme al cambio.
+
+
 ## Fuentes
 Copie y modifique la mayoria de mi autoexec de
 https://github.com/theletterjwithadot/Ultimate-Config-for-L4D2.
@@ -107,4 +119,8 @@ Ahi tambien estan los archivos de correccion que use.
 
 Donde originalmente aprendi a usar mods en versus:
 https://www.youtube.com/watch?v=Nv9sOw4rako
+
+Sprays en Linux
+https://doitonlinux.blogspot.com/2015/04/custom-spray-in-l4d2.html
+https://rafradek.github.io/Mishcatt/
 
