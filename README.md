@@ -14,6 +14,9 @@ Llamemos **$root_dir** al folder donde esta instalado Left4Dead2.
 Se puede saber donde queda este folder dandole anti-click al juego en Steam
 y seleccionando la opcion adecuada.
 
+TODO: Añadir seccion donde explique que es el autoexec.cfg y que va en
+**$root_dir/left4dead2/cfg/autoexec.cfg**
+
 Los archivos vpk descargados del workshop de steam se encuentran en
 **$root_dir/left4dead2/addons/workshop**. Los nombres de estos son sus codigos
 en el workshop, que se encuentran en la url despues de 'id=':
