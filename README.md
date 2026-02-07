@@ -114,6 +114,8 @@ nombre.vtf.
 NOTA: Si se quiere renombrar el archivo del spray, se tiene que editar el
 archivo *.vmt para que este conforme al cambio.
 
+## Vocalizador
+TODO
 
 ## Fuentes
 Copie y modifique la mayoria de mi autoexec de
